@@ -7,4 +7,4 @@ If the file does not start with a header, then the post title will be derived fr
 This is a sample blog post. You can talk about all sorts of fun things here.
 
 
-![Test](/Ludror.github.io/images/dji_fly_20230626_141552_47_1687827422041_photo.JPG)
+![Test](/images/dji_fly_20230626_141552_47_1687827422041_photo.JPG)
